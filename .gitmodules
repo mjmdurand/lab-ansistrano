@@ -1,0 +1,3 @@
+[submodule "lab-ansistrano-module-1"]
+	path = lab-ansistrano-module-1
+	url = https://github.com/mjmdurand/lab-ansistrano-module-1.git
